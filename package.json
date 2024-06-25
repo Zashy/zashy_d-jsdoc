@@ -1,0 +1,25 @@
+{
+  "name": "zashy_d_jsdoc",
+  "version": "1.0.0",
+  "description": "jsdoc demo project",
+  "main": "src/index.js",
+  "scripts": {
+    "docs": "jsdoc -c jsdocrc.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zashy/zashy_d_jsdoc.git"
+  },
+  "keywords": [
+    "jsdoc"
+  ],
+  "author": "Zashy",
+  "bugs": {
+    "url": "https://github.com/Zashy/zashy_d_jsdoc/issues"
+  },
+  "homepage": "https://github.com/Zashy/zashy_d_jsdoc#readme",
+  "devDependencies": {
+    "jsdoc": "^4.0.3"
+  }
+}
