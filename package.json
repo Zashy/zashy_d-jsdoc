@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/Zashy/zashy_d_jsdoc#readme",
   "devDependencies": {
+    "docdash": "^2.0.2",
     "jsdoc": "^4.0.3"
   }
 }
