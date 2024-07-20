@@ -5,7 +5,7 @@ import './source.js' // for types
 import { getSummary } from "./format";
 
 /**
- * sorts a given array of characters by popularity.
+ * Sorts a given array of characters by popularity.
  *
  * @param {Character[]} characters - array of characters
  * @returns {Character[]} - new sorted array of characters
